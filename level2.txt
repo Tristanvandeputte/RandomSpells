@@ -1,0 +1,88 @@
+Sleeping Draught | Enchantment | 1 Action | 60 feet | 1 minute | V, S, M
+Aganazzar's Scorcher | Evocation | 1 Action | 30 Feet | Instantaneous | V, S, M
+Aid | Abjuration | 1 Action | 30 Feet | 8 hours | V, S, M
+Air Bubble | Conjuration | 1 Action | 60 Feet | 24 hours | S
+Alter Self | Transmutation | 1 Action | Self | Concentration, up to 1 hour | V, S
+Animal Messenger | Enchantment | 1 Action R | 30 Feet | 24 hours | V, S, M
+Arcane Lock | Abjuration | 1 Action | Touch | Until dispelled | V, S, M
+Augury | Divination | 1 Minute R | Self | Instantaneous | V, S, M
+Barkskin | Transmutation | 1 Action | Touch | Concentration, up to 1 hour | V, S, M
+Beast Sense | Divination | 1 Action R | Touch | Concentration, up to 1 hour | S
+Blindness/Deafness | Necromancy | 1 Action | 30 Feet | 1 minute | V
+Blur | Illusion | 1 Action | Self | Concentration, up to 1 minute | V
+Borrowed Knowledge | Divination | 1 Action | Self | 1 hour | V, S, M
+Branding Smite | Evocation | 1 Bonus Action | Self | Concentration, up to 1 minute | V
+Calm Emotions | Enchantment | 1 Action | 60 feet | Concentration, up to 1 minute | V, S
+Cloud of Daggers | Conjuration | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Continual Flame | Evocation | 1 Action | Touch | Until dispelled | V, S, M
+Cordon of Arrows | Transmutation | 1 Action | 5 feet | 8 hours | V, S, M
+Crown of Madness | Enchantment | 1 Action | 120 feet | Concentration, up to 1 minute | V, S
+Darkness | Evocation | 1 Action | 60 feet | Concentration, up to 10 minutes | V, M
+Darkvision | Transmutation | 1 Action | Touch | 8 hours | V, S, M
+Detect Thoughts | Divination | 1 Action | Self | Concentration, up to 1 minute | V, S, M
+Dragon's Breath | Transmutation | 1 Bonus Action | Touch | Concentration, up to 1 minute | V, S, M
+Dust Devil | Conjuration | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Earthbind | Transmutation | 1 Action | 300 feet | Concentration, up to 1 minute | V
+Enhance Ability | Transmutation | 1 Action | Touch | Concentration, up to 1 hour | V, S, M
+Enlarge/Reduce | Transmutation | 1 Action | 30 feet | Concentration, up to 1 minute | V, S, M
+Enthrall | Enchantment | 1 Action | 60 feet | 1 minute | V, S
+Find Steed | Conjuration | 10 Minutes | 30 feet | Instantaneous | V, S
+Find Traps | Divination | 1 Action | 120 feet | Instantaneous | V, S
+Flame Blade | Evocation | 1 Bonus Action | Self | Concentration, up to 10 minutes | V, S, M
+Flaming Sphere | Conjuration | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Flock of Familiars | Conjuration | 1 Minute | Touch | Concentration, up to 1 hour | V, S
+Fortune's Favor | Divination D | 1 Minute | 60 feet | 1 hour | V, S, M
+Gentle Repose | Necromancy | 1 Action R | Touch | 10 days | V, S, M
+Gift of Gab | Enchantment | Reaction | Self | Instantaneous | V, S, M
+Gust of Wind | Evocation | 1 Action | Self (60-foot line) | Concentration, up to 1 minute | V, S, M
+Healing Spirit | Conjuration | 1 Bonus Action | 60 feet | Concentration, up to 1 minute | V, S
+Heat Metal | Transmutation | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Hold Person | Enchantment | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Invisibility | Illusion | 1 Action | Touch | Concentration, up to 1 hour | V, S, M
+Jim's Glowing Coin | Enchantment | 1 Action | 60 feet | 1 minute | S, M
+Kinetic Jaunt | Transmutation | 1 Bonus Action | Self | Concentration, up to 1 minute | S
+Knock | Transmutation | 1 Action | 60 feet | Instantaneous | V
+Lesser Restoration | Abjuration | 1 Action | Touch | Instantaneous | V, S
+Levitate | Transmutation | 1 Action | 60 feet | Concentration, up to 10 minutes | V, S, M
+Locate Animals or Plants | Divination | 1 Action R | Self | Instantaneous | V, S, M
+Locate Object | Divination | 1 Action | Self | Concentration, up to 10 minutes | V, S, M
+Magic Mouth | Illusion | 1 Minute R | 30 feet | Until dispelled | V, S, M
+Magic Weapon | Transmutation | 1 Bonus Action | Touch | Concentration, up to 1 hour | V, S
+Maximillian's Earthen Grasp | Transmutation | 1 Action | 30 feet | Concentration, up to 1 minute | V, S, M
+Melf's Acid Arrow | Evocation | 1 Action | 90 feet | Instantaneous | V, S, M
+Mind Spike | Divination | 1 Action | 60 feet | Concentration, up to 1 hour | S
+Mirror Image | Illusion | 1 Action | Self | 1 minute | V, S
+Misty Step | Conjuration | 1 Bonus Action | Self | Instantaneous | V
+Moonbeam | Evocation | 1 Action | 120 feet | Concentration, up to 1 minute | V, S, M
+Nathair's Mischief | Illusion | 1 Action | 60ft | Concentration, up to 1 minute | S, M
+Nystul's Magic Aura | Illusion | 1 Action | Touch | 24 hours | V, S, M
+Pass Without Trace | Abjuration | 1 Action | Self | Concentration, up to 1 hour | V, S, M
+Phantasmal Force | Illusion | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Prayer of Healing | Evocation | 10 Minutes | 30 feet | Instantaneous | V
+Protection from Poison | Abjuration | 1 Action | Touch | 1 hour | V, S
+Pyrotechnics | Transmutation | 1 Action | 60 feet | Instantaneous | V, S
+Ray of Enfeeblement | Necromancy | 1 Action | 60 feet | Concentration, up to 1 minute | V, S
+Rime's Binding Ice | Evocation | 1 Action | Self (30-foot cone) | Instantaneous | S, M
+Rope Trick | Transmutation | 1 Action | Touch | 1 hour | V, S, M
+Scorching Ray | Evocation | 1 Action | 120 feet | Instantaneous | V, S
+See Invisibility | Divination | 1 Action | Self | 1 hour | V, S, M
+Shadow Blade | Illusion | 1 Bonus Action | Self | Concentration, up to 1 minute | V, S
+Shatter | Evocation | 1 Action | 60 feet | Instantaneous | V, S, M
+Silence | Illusion | 1 Action R | 120 feet | Concentration, up to 10 minutes | V, S
+Skywrite | Transmutation | 1 Action R | Sight | Concentration, up to 1 day | V, S
+Snilloc's Snowball Storm | Evocation | 1 Action | 90 feet | Instantaneous | V, S, M
+Spider Climb | Transmutation | 1 Action | Touch | Concentration, up to 1 hour | V, S, M
+Spike Growth | Transmutation | 1 Action | 150 feet | Concentration, up to 10 minutes | V, S, M
+Spiritual Weapon | Evocation | 1 Bonus Action | 60 feet | 1 minute | V, S
+Spray Of Cards | Conjuration | 1 Action | Self (15-foot cone) | Instantaneous | V, S, M
+Suggestion | Enchantment | 1 Action | 30 feet | Concentration, up to 8 hours | V, M
+Summon Beast | Conjuration | 1 Action | 90 feet | Concentration, up to 1 hour | V, S, M
+Tasha's Mind Whip | Enchantment | 1 Action | 90 feet | 1 round | V
+Vortex Warp | Conjuration | 1 Action | 90 feet | Instantaneous | V, S
+Warding Bond | Abjuration | 1 Action | Touch | 1 hour | V, S, M
+Warding Wind | Evocation | 1 Action | Self | Concentration, up to 10 minutes | V
+Warp Sense | Divination | 1 Action | Self | Concentration, up to 1 minute | V, S, M
+Web | Conjuration | 1 Action | 60 feet | Concentration, up to 1 hour | V, S, M
+Wither and Bloom | Necromancy | 1 Action | 60 feet | Instantaneous | V, S, M
+Wristpocket | Conjuration D | 1 Action R | Self | Concentration, up to 1 hour | S
+Zone of Truth | Enchantment | 1 Action | 60 feet | 10 minutes | V, S

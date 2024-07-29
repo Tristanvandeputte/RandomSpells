@@ -1,0 +1,20 @@
+Astral Projection | Evocation | 1 Hour | 10 feet | Special | V, S, M
+Blade of Disaster | Conjuration | 1 Bonus Action | 60 feet | Concentration, up to 1 minute | V, S
+Foresight | Divination | 1 Minute | Touch | 8 hours | V, S, M
+Gate | Conjuration | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Imprisonment | Abjuration | 1 Minute | 30 feet | Until dispelled | V, S, M
+Invulnerability | Abjuration | 1 Action | Self | Concentration, up to 10 minutes | V, S, M
+Mass Heal | Evocation | 1 Action | 60 feet | Instantaneous | V, S
+Mass Polymorph | Transmutation | 1 Action | 120 feet | Concentration, up to 1 hour | V, S, M
+Meteor Swarm | Evocation | 1 Action | 1 mile | Instantaneous | V, S
+Power Word: Heal | Evocation | 1 Action | Touch | Instantaneous | V, S
+Power Word: Kill | Enchantment | 1 Action | 60 feet | Instantaneous | V
+Prismatic Wall | Abjuration | 1 Action | 60 feet | 10 minutes | V, S
+Psychic Scream | Enchantment | 1 Action | 90 feet | Instantaneous | S
+Shapechange | Transmutation | 1 Action | Self | Concentration, up to 1 hour | V, S, M
+Storm of Vengeance | Conjuration | 1 Action | Sight | Concentration up to 1 minute | V, S
+Time Stop | Transmutation | 1 Action | Self | Instantaneous | V
+True Polymorph | Transmutation | 1 Action | 30 feet | Concentration, up to 1 hour | V, S, M
+True Resurrection | Necromancy | 1 Hour | Touch | Instantaneous | V, S, M
+Weird | Illusion | 1 Action | 120 feet | Concentration, up to 1 minute | V, S
+Wish | Conjuration | 1 Action | Self | Instantaneous | V

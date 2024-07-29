@@ -1,0 +1,48 @@
+Seeds of Death | Necromancy | 1 Action | 30 feet | Concentration, up to 10 minutes | V, S, M
+Arcane Gate | Conjuration | 1 Action | 500 feet | Concentration, up to 10 minutes | V, S
+Blade Barrier | Evocation | 1 Action | 90 feet | Concentration, up to 10 minutes | V, S
+Bones of the Earth | Transmutation | 1 Action | 120 feet | Instantaneous | V, S
+Chain Lightning | Evocation | 1 Action | 150 feet | Instantaneous | V, S, M
+Circle of Death | Necromancy | 1 Action | 150 feet | Instantaneous | V, S, M
+Conjure Fey | Conjuration | 1 Action | 90 feet | Concentration, up to 1 hour | V, S
+Contingency | Evocation | 10 Minutes | Self | 10 days | V, S, M
+Create Homunculus | Transmutation | 1 Hour | 120 feet | Instantaneous | V, S, M
+Create Undead | Necromancy | 1 Minute | 10 feet | Instantaneous | V, S, M
+Disintegrate | Transmutation | 1 Action | 60 feet | Instantaneous | V, S, M
+Drawmij's Instant Summons | Conjuration | 1 Minute R | Touch | Until dispelled | V, S, M
+Druid Grove | Abjuration | 10 Minutes | Touch | 24 hours | V, S, M
+Eyebite | Necromancy | 1 Action | Self | Concentration, up to 1 minute | V, S
+Find the Path | Divination | 1 Minute | Self | Concentration, up to 1 day | V, S, M
+Fizban's Platinum Shield | Abjuration | 1 Bonus Action | 60ft | Concentration, up to 1 minute | V, S, M
+Flesh to Stone | Transmutation | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Forbiddance | Abjuration | 10 Minutes R | Touch | 1 day | V, S, M
+Globe of Invulnerability | Abjuration | 1 Action | Self (10-foot radius) | Concentration, up to 1 minute | V, S, M
+Guards and Wards | Abjuration | 10 Minutes | Touch | 24 hours | V, S, M
+Harm | Necromancy | 1 Action | 60 feet | Instantaneous | V, S
+Heal | Evocation | 1 Action | 60 feet | Instantaneous | V, S
+Heroes' Feast | Conjuration | 10 Minutes | 30 feet | Instantaneous | V, S, M
+Investiture of Flame | Transmutation | 1 Action | Self | Concentration, up to 10 minutes | V, S
+Investiture of Ice | Transmutation | 1 Action | Self | Concentration, up to 10 minutes | V, S
+Investiture of Stone | Transmutation | 1 Action | Self | Concentration, up to 10 minutes | V, S
+Investiture of Wind | Transmutation | 1 Action | Self | Concentration, up to 10 minutes | V, S
+Magic Jar | Necromancy | 1 Minute | Self | Until dispelled | V, S, M
+Mass Suggestion | Enchantment | 1 Action | 60 feet | 24 hours | V, M
+Mental Prison | Illusion | 1 Action | 60 feet | Concentration, up to 1 minute | S
+Move Earth | Transmutation | 1 Action | 120 feet | Concentration, up to 2 hours | V, S, M
+Otiluke's Freezing Sphere | Evocation | 1 Action | 300 feet | Instantaneous | V, S, M
+Otto's Irresistible Dance | Enchantment | 1 Action | 30 feet | Concentration, up to 1 minute | V
+Planar Ally | Conjuration | 1 Action | 60 feet | Instantaneous | V, S
+Primordial Ward | Abjuration | 1 Action | Self | Concentration, up to 1 minute | V, S
+Programmed Illusion | Illusion | 1 Action | 120 feet | Until dispelled | V, S, M
+Scatter | Conjuration | 1 Action | 30 feet | Instantaneous | V
+Soul Cage | Necromancy | Special | 60 feet | 8 hours | V, S, M
+Summon Fiend | Conjuration | 1 Action | 90 feet | Concentration, up to 1 hour | V, S, M
+Sunbeam | Evocation | 1 Action | Self (60-foot line) | Concentration, up to 1 minute | V, S, M
+Tasha's Otherworldly Guise | Transmutation | 1 Bonus Action | Self | Concentration, up to 1 minute | V, S, M
+Tenser's Transformation | Transmutation | 1 Action | Self | Concentration, up to 10 minutes | V, S, M
+Transport via Plants | Conjuration | 1 Action | 10 feet | 1 round | V, S
+True Seeing | Divination | 1 Action | Touch | 1 hour | V, S, M
+Wall of Ice | Evocation | 1 Action | 120 feet | Concentration, up to 10 minutes | V, S, M
+Wall of Thorns | Conjuration | 1 Action | 120 feet | Concentration, up to 10 minutes | V, S, M
+Wind Walk | Transmutation | 1 Minute | 30 feet | 8 hours | V, S, M
+Word of Recall | Conjuration | 1 Action | 5 feet | Instantaneous | V

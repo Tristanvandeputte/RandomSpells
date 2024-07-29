@@ -1,0 +1,22 @@
+Abi-Dalzim's Horrid Wilting | Necromancy | 1 Action | 150 feet | Instantaneous | V, S, M
+Animal Shapes | Transmutation | 1 Action | 30 feet | Concentration, up to 24 hours | V, S
+Antimagic Field | Abjuration | 1 Action | Self (10-foot radius sphere) | Concentration, up to 1 hour | V, S, M
+Antipathy/Sympathy | Enchantment | 1 Hour | 60 feet | 10 Days | V, S, M
+Clone | Necromancy | 1 Hour | Touch | Instantaneous | V, S, M
+Control Weather | Transmutation | 10 Minutes | Self (5 mile radius) | Concentration, Up to 8 hours | V, S, M
+Demiplane | Conjuration | 1 Action | 60 feet | 1 hour | S
+Dominate Monster | Enchantment | 1 Action | 60 feet | Concentration, up to 1 hour | V, S
+Earthquake | Evocation | 1 Action | 500 feet | Concentration, up to 1 minute | V, S, M
+Feeblemind | Enchantment | 1 Action | 150 feet | Instantaneous | V, S, M
+Glibness | Transmutation | 1 Action | Self | 1 hour | V
+Holy Aura | Abjuration | 1 Action | Self | Concentration, up to 1 minute | V, S, M
+Illusory Dragon | Illusion | 1 Action | 120 feet | Concentration, up to 1 minute | S
+Incendiary Cloud | Conjuration | 1 Action | 150 feet | Concentration, up to 1 minute | V, S
+Maddening Darkness | Evocation | 1 Action | 150 feet | Concentration, up to 10 minutes | V, M
+Maze | Conjuration | 1 Action | 60 feet | Concentration, up to 10 minutes | V, S
+Mighty Fortress | Conjuration | 1 Minute | 1 mile | Instantaneous | V, S, M
+Mind Blank | Abjuration | 1 Action | Touch | 24 hours | V, S
+Power Word: Stun | Enchantment | 1 Action | 60 feet | Instantaneous | V, S
+Sunburst | Evocation | 1 Action | 150 feet | Instantaneous | V, S, M
+Telepathy | Evocation | 1 Action | Unlimited | 24 hours | V, S, M
+Tsunami | Conjuration | 1 Action | Sight | Concentration, up to 6 rounds | V, S

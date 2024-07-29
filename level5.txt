@@ -1,0 +1,62 @@
+Sword of Fate | Illusion | 1 Action | 60 feet | 1 hour | V
+Animate Objects | Transmutation | 1 Action | 120 feet | Concentration, up to 1 minute | V, S
+Antilife Shell | Abjuration | 1 Action | Self (10-foot radius) | Concentration, up to 1 hour | V, S
+Awaken | Transmutation | 8 Hours | Touch | Instantaneous | V, S, M
+Banishing Smite | Abjuration | 1 Bonus Action | Self | Concentration, up to 1 minute | V
+Bigby's Hand | Evocation | 1 Action | 120 feet | Concentration, up to 1 minute | V, S, M
+Circle of Power | Abjuration | 1 Action | Self (30-foot radius) | Concentration, up to 10 minutes | V
+Cloudkill | Conjuration | 1 Action | 120 feet | Concentration, up to 10 minutes | V, S
+Commune | Divination | 1 Minute R | Self | 1 minute | V, S, M
+Commune with Nature | Divination | 1 Minute R | Self | Instantaneous | V, S
+Cone of Cold | Evocation | 1 Action | Self (60-foot cone) | Instantaneous | V, S, M
+Conjure Elemental | Conjuration | 1 Action | 90 feet | Concentration, up to 1 hour | V, S, M
+Conjure Volley | Conjuration | 1 Action | 150 feet | Instantaneous | V, S, M
+Contact Other Plane | Divination | 1 Minute R | Self | 1 minute | V
+Contagion | Necromancy | 1 Action | Touch | 7 days | V, S
+Control Winds | Transmutation | 1 Action | 300 feet | Concentration, up to 1 hour | V, S
+Create Spelljamming Helm | Transmutation | 1 Action | Touch | Instantaneous | V,S,M
+Creation | Illusion | 1 Minute | 30 feet | Special | V, S, M
+Danse Macabre | Necromancy | 1 Action | 60 Feet | Concentration, up to 1 hour | V, S
+Dawn | Evocation | 1 Action | 60 Feet | Concentration, up to 1 minute | V, S, M
+Destructive Wave | Evocation | 1 Action | Self (30-foot radius) | Instantaneous | V
+Dispel Evil and Good | Abjuration | 1 Action | Self | Concentration, up to 1 minute | V, S, M
+Dominate Person | Enchantment | 1 Action | 60 feet | Concentration, up to 1 minute | V, S
+Dream | Illusion | 1 Minute | Special | 8 hours | V, S, M
+Enervation | Necromancy | 1 Action | 60 feet | Concentration, up to 1 minute | V, S
+Far Step | Conjuration | 1 Bonus Action | Self | Concentration, up to 1 minute | V
+Flame Strike | Evocation | 1 Action | 60 feet | Instantaneous | V, S, M
+Geas | Enchantment | 1 Minute | 60 feet | 30 days | V
+Greater Restoration | Abjuration | 1 Action | Touch | Instantaneous | V, S, M
+Hallow | Evocation | 24 Hours | Touch | Until dispelled | V, S, M
+Hold Monster | Enchantment | 1 Action | 90 feet | Concentration, up to 1 minute | V, S, M
+Holy Weapon | Evocation | 1 Bonus Action | Touch | Concentration, up to 1 hour | V, S
+Immolation | Evocation | 1 Action | 90 feet | Concentration, up to 1 minute | V
+Infernal Calling | Conjuration | 1 Minute | 90 feet | Concentration, up to 1 hour | V, S, M
+Insect Plague | Conjuration | 1 Action | 300 feet | Concentration, up to 10 minutes | V, S, M
+Legend Lore | Divination | 10 Minutes | Self | Instantaneous | V, S, M
+Maelstrom | Evocation | 1 Action | 120 feet | Concentration, up to 1 minute | V, S, M
+Mass Cure Wounds | Evocation | 1 Action | 60 feet | Instantaneous | V, S
+Mislead | Illusion | 1 Action | Self | Concentration, up to 1 hour | S
+Modify Memory | Enchantment | 1 Action | 30 feet | Concentration, up to 1 minute | V, S
+Negative Energy Flood | Necromancy | 1 Action | 60 feet | Instantaneous | V, M
+Passwall | Transmutation | 1 Action | 30 feet | 1 hour | V, S, M
+Planar Binding | Abjuration | 1 Hour | 60 feet | 24 hours | V, S, M
+Raise Dead | Necromancy | 1 Action | Touch | Instantaneous | V, S, M
+Rary's Telepathic Bond | Divination | 1 Action R | 30 feet | 1 hour | V, S, M
+Reincarnate | Transmutation | 1 Action | Touch | Instantaneous | V, S, M
+Scrying | Divination | 10 Minutes | Self | Concentration, up to 10 minutes | V, S, M
+Seeming | Illusion | 1 Action | 30 feet | 8 hours | V, S
+Skill Empowerment | Transmutation | 1 Action | Touch | Concentration, up to 1 hour | V, S
+Steel Wind Strike | Conjuration | 1 Action | 30 feet | Instantaneous | S, M
+Summon Celestial | Conjuration | 1 Action | 90 feet | Concentration, up to 1 hour | V, S, M
+Summon Draconic Spirit | Conjuration | 1 Action | 60 feet | Concentration, up to 1 hour | V, S, M
+Swift Quiver | Transmutation | 1 Bonus Action | Touch | Concentration, up to 1 minute | V, S, M
+Synaptic Static | Enchantment | 1 Action | 120 feet | Instantaneous | V, S
+Telekinesis | Transmutation | 1 Action | 60 feet | Concentration, up to 10 minutes | V, S
+Teleportation Circle | Conjuration | 1 Minute | 10 feet | 1 round | V, M
+Transmute Rock | Transmutation | 1 Action | 120 feet | Instantaneous | V, S, M
+Tree Stride | Conjuration | 1 Action | Self | Concentration, up to 1 minute | V, S
+Wall of Force | Evocation | 1 Action | 120 feet | Concentration, up to 10 minutes | V, S, M
+Wall of Light | Evocation | 1 Action | 120 feet | Concentration, up to 10 minutes | V, S, M
+Wall of Stone | Evocation | 1 Action | 120 feet | Concentration, up to 10 minutes | V, S, M
+Wrath Of Nature | Evocation | 1 Action | 120 feet | Concentration, up to 1 minute | V, S

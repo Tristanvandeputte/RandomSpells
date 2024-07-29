@@ -1,0 +1,28 @@
+Conjure Celestial | Conjuration | 1 Minute | 90 feet | Concentration, up to 1 hour | V, S
+Create Magen | Transmutation | 1 Hour | Touch | Instantaneous | V, S, M
+Crown of Stars | Evocation | 1 Action | Self | 1 hour | V, S
+Delayed Blast Fireball | Evocation | 1 Action | 150 feet | Concentration, up to 1 minute | V, S, M
+Divine Word | Evocation | 1 Bonus Action | 30 feet | Instantaneous | V
+Draconic Transformation | Transmutation | 1 Bonus Action | Self | Concentration, up to 1 minute | V, S, M
+Dream of the Blue Veil | Conjuration | 10 minutes | 20 feet | 6 hours | V, S, M
+Etherealness | Transmutation | 1 Action | Self | Up to 8 hours | V, S
+Finger of Death | Necromancy | 1 Action | 60 feet | Instantaneous | V, S
+Fire Storm | Evocation | 1 Action | 150 feet | Instantaneous | V, S
+Forcecage | Evocation | 1 Action | 100 feet | 1 hour | V, S, M
+Mirage Arcane | Illusion | 10 Minutes | Sight | 10 days | V, S
+Mordenkainen's Magnificent Mansion | Conjuration | 1 Minute | 300 feet | 24 hours | V, S, M
+Mordenkainen's Sword | Evocation | 1 Action | 60 feet | Concentration, up to 1 minute | V, S, M
+Plane Shift | Conjuration | 1 Action | Touch | Instantaneous | V, S, M
+Power Word: Pain | Enchantment | 1 Action | 60 feet | Instantaneous | V
+Prismatic Spray | Evocation | 1 Action | Self (60-foot cone) | Instantaneous | V, S
+Project Image | Illusion | 1 Action | 500 Miles | Concentration, up to 1 day | V, S, M
+Regenerate | Transmutation | 1 Minute | Touch | 1 hour | V, S, M
+Resurrection | Necromancy | 1 Hour | Touch | Instantaneous | V, S, M
+Reverse Gravity | Transmutation | 1 Action | 100 feet | Concentration, up to 1 minute | V, S, M
+Sequester | Transmutation | 1 Action | Touch | Until dispelled | V, S, M
+Simulacrum | Illusion | 12 hours | Touch | Until dispelled | V, S, M
+Symbol | Abjuration | 1 Minute | Touch | Until dispelled or triggered | V, S, M
+Teleport | Conjuration | 1 Action | 10 feet | Instantaneous | V
+Temple of the Gods | Conjuration | 1 hour | 120 feet | 24 hours | V, S, M
+Tether Essence | Necromancy D | 1 Action | 60 feet | Concentration, up to 1 hour | V, S, M
+Whirlwind | Evocation | 1 Action | 300 feet | Concentration, up to 1 minute | V, M
